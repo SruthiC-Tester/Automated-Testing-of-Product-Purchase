@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">My Work: An assignment on "Automated Testing of Product Purchase"</p>
+<p align="left">"Automated Testing of Product Purchase"</p>
 
 ###
 
@@ -26,6 +26,7 @@
 <div align="left">
 </div>
 
+###
 ###
 </div>
 
