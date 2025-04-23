@@ -1,7 +1,7 @@
 # SELENIUM -- Project 1
 ## Automated Testing of Product Purchase
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left"></h1>
 
 ###
 
@@ -24,6 +24,9 @@
 ###
 
 <div align="left">
+</div>
+
+###
 </div>
 
 ###
