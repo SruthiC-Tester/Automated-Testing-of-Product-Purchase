@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">"Automated Testing of Product Purchase"</p>
+<p align="left"></p>
 
 ###
 
@@ -24,10 +24,6 @@
 ###
 
 <div align="left">
-</div>
-
-###
-###
 </div>
 
 ###
