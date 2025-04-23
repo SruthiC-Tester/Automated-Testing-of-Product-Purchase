@@ -1,5 +1,6 @@
-# selenium-project-1
-Automated Testing of Product Purchase
+# SELENIUM -- Project 1
+## Automated Testing of Product Purchase
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
