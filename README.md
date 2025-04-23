@@ -8,7 +8,7 @@ Automated Testing of Product Purchase
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left"></h2>
 
 ###
 
