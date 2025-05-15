@@ -1,4 +1,4 @@
-# SELENIUM -- Project 1
+
 ## Automated Testing of Product Purchase
 
 <h1 align="left"></h1>
